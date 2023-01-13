@@ -1,14 +1,10 @@
 # IA Rush Hour Project
 
-
 | NMec   | Email                 | Name             |
-
 | ------ | --------------------- | ---------------- |
-
-| 102690 | joao.mont@ua.pt | João Monteiro |
-
-| 103234 | paulojnpinto02@ua.pt  | Paulo Pinto |
-
+| ------ | --------------------- | ---------------- |
+| 102690 | joao.mont@ua.pt       | João Monteiro   |
+| 103234 | paulojnpinto02@ua.pt  | Paulo Pinto      |
 
 ## Grade:
 
