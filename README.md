@@ -1,9 +1,18 @@
-<<<<<<< HEAD
-# ia-tetris
-=======
-# ia-rush
->>>>>>> upstream/main
-Projecto de Inteligência Artificial 2022 - Rush Hour
+# IA Rush Hour Project
+
+
+| NMec   | Email                 | Name             |
+
+| ------ | --------------------- | ---------------- |
+
+| 102690 | joao.mont@ua.pt | João Monteiro |
+
+| 103234 | paulojnpinto02@ua.pt  | Paulo Pinto |
+
+
+## Grade:
+
+###### Null (For now)
 
 ## How to install
 
@@ -34,10 +43,3 @@ Directions: arrows
 Make sure pygame is properly installed:
 
 python -m pygame.examples.aliens
-
-# Tested on:
-<<<<<<< HEAD
-- OSX Monterey 12.5.1
-=======
-- OSX Monterey 12.5.1
->>>>>>> upstream/main
