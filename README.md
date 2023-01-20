@@ -8,7 +8,7 @@
 
 ## Grade:
 
-###### 19,5
+#### 19,5
 
 ## How to install
 
